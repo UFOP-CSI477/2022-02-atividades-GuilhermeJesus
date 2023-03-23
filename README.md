@@ -2,12 +2,12 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Guilherme A R de Jesus
+- Matrícula: 19.2.8026
+- Curso: SI
+- Semestre/Ano correntes: 19/2
+- Link para o seu GitHub: https://github.com/GuilhermeJesus
 
 ## [Projeto final:](./Projeto/README.md)
 
-Apresente uma breve descrição do seu projeto.
+Sistema para cadastro de pacientes e suas medicações.
